@@ -158,7 +158,13 @@ Certificates earned upon completion of each course in the specialization.
 
 ## 📜 License
 
-This repository is for educational purposes. Course materials (labs, assignments) are © DeepLearning.AI. Personal notes and implementations are freely shareable.
+This repository contains a mixture of:
+- Original implementations and notes by me (MIT licensed)
+- Educational materials and third-party resources collected from various sources
+
+All third-party content remains the property of its respective owners and may be subject to separate licenses or usage restrictions.
+
+This repository is intended for educational and non-commercial learning purposes.
 
 ---
 
