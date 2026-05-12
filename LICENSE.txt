@@ -1,3 +1,7 @@
+This license applies only to the original code, notes, and implementations created by the repository author.
+
+Third-party materials (including course content, datasets, notebooks, images, and external resources) are the property of their respective owners and may be subject to separate licenses and usage restrictions.
+
 MIT License
 
 Copyright (c) 2026 Ashfak Uzzaman
